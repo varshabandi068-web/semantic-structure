@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://varsha-portfolio.example.com/sitemap.xml
